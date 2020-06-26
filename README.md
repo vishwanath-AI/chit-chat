@@ -1,8 +1,13 @@
-Start dev server from console if we run locally:
+Run locally:
+
+1. git clone 
+2. go to path of that folder and run 
 
 ```
 npm start
 ```
+
+
 
 ## Steps
 
