@@ -31,7 +31,7 @@ class App extends Component {
 
     return (
       <form className="username-container" onSubmit={this.usernameSubmitHandler}>
-        <h1>Secure ChatApp</h1>
+        <h1>Rocket Secure Chat</h1>
         <div>
           <input 
             type="text"
