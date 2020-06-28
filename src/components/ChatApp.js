@@ -43,7 +43,7 @@ class ChatApp extends Component {
 	render() {
 		return (
 			<div className="container">
-				<h3>React Chat App</h3>
+				<h3>Rocketpax secure chat</h3>
 				<MessageList messages={this.state.messages} />
 				<ChatInput onSend={this.handleSubmit} />
 			</div>
