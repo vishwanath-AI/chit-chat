@@ -1,7 +1,7 @@
 {
   "name": "react-chat",
   "version": "0.1.0",
-  "description": "React application",
+  "description": "Rocketpax application",
   "main": "server.js",
   "scripts": {
     "start": "babel-node server.js"
