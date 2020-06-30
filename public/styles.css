@@ -125,7 +125,7 @@ h3 {
 }
 
 .message-body {
-    margin-left: auto;
+    margin: 5px;
     padding: 20px 40px 20px 20px;
     background-color: #fff;
     border: 1px;
