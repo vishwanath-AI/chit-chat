@@ -124,6 +124,9 @@ h3 {
     font-size: 0.9rem;
     color: #999;
     flex: 1 1;
+    color: black;
+    //font-size: inherit;
+    //font-family: initial;
 }
 
 .message-body {
@@ -133,6 +136,7 @@ h3 {
     border: 1px;
     border-radius: 5px;
     flex: 1 1;
+    color: black;
 }
 
 .message-container.from-me {
