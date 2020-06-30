@@ -44,8 +44,8 @@ html, body, #app, .container {
     overflow-x: hidden;
     flex-grow: 1;
     padding: 20px;
-    //margin-left: 30px;
-    //margin-right: 30px;
+    margin-left: 40px;
+    margin-right: 40px;
     background-color: ghostwhite;
     text-align: center;
     padding: 20px 0;
@@ -111,6 +111,7 @@ h3 {
 
 .message-container {
     margin-bottom: 20px;
+    margin-left: 20px;
     display: flex;
     justify-content: flex-start;
     align-items: flex-start;
