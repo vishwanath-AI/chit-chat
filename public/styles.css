@@ -9,7 +9,7 @@ html, body, #app, .container {
     max-width: 100%;
     background: white;
     border-radius: 8px;
-    background-image:url(images/rocketpax.png);
+    background-image:url(rocketpax.png);
     overflow: auto;
     resize: both;
     outline-color: 4px cadetblue;
