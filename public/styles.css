@@ -188,13 +188,13 @@ h1 {
 }
 
 .username-container {
-    border-radius: 8px;
-	box-sizing: border-box;
-	width: 300px;
-	margin: 100px auto 0;
-	box-shadow: -8px 9px 5px 1px rgba(0, 0, 0, 0.2);
+	box-sizing: border-box; /*changes*/
+        width: 500px;
+        height: 500px;
+	margin: 100px 130px 0px 130px;
+	box-shadow: 2px 2px 5px 1px rgba(0, 0, 0, 0.2);
 	padding-bottom: 20px;
-	border-radius: 3px;
+	border-radius: 30px 30px 30px 30px;
 }
 
 .username-container h1 {
