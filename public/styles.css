@@ -47,12 +47,12 @@ html, body, #app, .container {
     overflow-x: hidden;
     flex-grow: 1;
     padding: 20px;
-    margin-left: 30px;
-    dmargin-right: 30px;
+    margin:30px 700px 30px 50px;
     background-color: ghostwhite;
-    text-align: center;
+    text-align: inherit;
     padding: 20px 0;
-    color: black
+    color: black;
+    border-radius: 30px 30px 30px 30px;
 }
 
 h3 {
