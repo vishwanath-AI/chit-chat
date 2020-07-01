@@ -12,6 +12,7 @@ html, body, #app, .container {
     overflow: hidden;
     background-repeat: no-repeat;
     background-position:top right;
+    background-size: 730px;
 }
 
 .chat-input input[type="text"] {
