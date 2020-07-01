@@ -47,8 +47,8 @@ html, body, #app, .container {
     overflow-x: hidden;
     flex-grow: 1;
     padding: 20px;
-    //margin-left: 30px;
-    //dmargin-right: 30px;
+    margin-left: 30px;
+    dmargin-right: 30px;
     background-color: ghostwhite;
     text-align: center;
     padding: 20px 0;
@@ -135,11 +135,11 @@ h3 {
     border: 1px;
     border-radius: 5px;
     flex: 1 1;
-    //border-radius: 25px;
-    //border: 2px solid #73AD21;
-    //padding: 20px;
-    //width: 200px;
-    //height: 150px; 
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 20px;
+    width: 200px;
+    height: 150px; 
 }
 
 .tri-right.btm-left:after{
